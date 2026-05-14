@@ -1,7 +1,7 @@
 # (Jumia) Retail Sales Analysis – Power BI
 
 ## Overview
-Built a 4-page interactive Power BI dashboard analyzing $2.3M in sales across 4 years, 4 customer segments, and 3 product categories. A big part of this project was solving data relationship problems to make sure every number on the dashboard is accurate.
+Built a 3-page interactive Power BI dashboard analyzing $2.3M in sales across 4 years, 4 customer segments, and 3 product categories. A big part of this project was solving data relationship problems to make sure every number on the dashboard is accurate.
 
 ## Questions Answered
 - How did revenue and profit change year over year?
@@ -45,3 +45,18 @@ Built a 4-page interactive Power BI dashboard analyzing $2.3M in sales across 4 
 - The West region has the highest sales ($764K), but Ontario is more efficient at turning sales into profit ($321K).
 - Furniture has $5.2M in sales but only $117K in profit — the weakest margin of all categories, signaling a pricing problem.
 - Profit dropped steadily from $434K in 2009 to $342K in 2012, suggesting rising costs need attention.
+
+## Dashborad 
+<img width="1240" height="655" alt="image" src="https://github.com/user-attachments/assets/922f97dd-b327-46a9-ba5b-46746eaf4b9e" />
+
+<img width="1236" height="655" alt="image" src="https://github.com/user-attachments/assets/a12b8444-4808-49f4-9186-75a7fae8d67d" />
+
+<img width="1241" height="656" alt="image" src="https://github.com/user-attachments/assets/24f452ce-986c-4a85-844e-cc3d95aa0e41" />
+
+<img width="1238" height="660" alt="image" src="https://github.com/user-attachments/assets/a223a0bc-de68-46fb-89ca-f7c2028bf855" />
+
+<img width="1242" height="672" alt="image" src="https://github.com/user-attachments/assets/fc97d36f-735d-4685-841c-ebf331da66c5" />
+
+
+
+
